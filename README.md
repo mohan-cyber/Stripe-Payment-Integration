@@ -43,5 +43,8 @@
 http://127.0.0.1:8002/admin/  (or)  http://yourip:8002/admin  
 `
 
+#### ReactJS 
+`yarn start`
+
 
 
