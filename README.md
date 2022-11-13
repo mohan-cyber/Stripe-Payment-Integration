@@ -1,4 +1,4 @@
-# PlayWithTamil
+# Stripe Payment Integration
 
 ## Tech Stack
 1. Python 3.8
